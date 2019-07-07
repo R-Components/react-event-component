@@ -1,5 +1,5 @@
 {
-  "name": "react-event-component",
+  "name": "react-event-hooks",
   "version": "0.0.1",
   "description": "React Event Component",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/R-Components/react-event-component.git"
+    "url": "git+https://github.com/R-Components/react-event-hooks.git"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "Go7hic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/R-Components/react-event-component/issues"
+    "url": "https://github.com/R-Components/react-event-hooks/issues"
   },
-  "homepage": "https://github.com/R-Components/react-event-component#readme"
+  "homepage": "https://github.com/R-Components/react-event-hooks#readme"
 }
