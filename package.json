@@ -1,0 +1,24 @@
+{
+  "name": "react-event-component",
+  "version": "0.0.1",
+  "description": "React Event Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Components/react-event-component.git"
+  },
+  "keywords": [
+    "react",
+    "event",
+    "component"
+  ],
+  "author": "Go7hic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/R-Components/react-event-component/issues"
+  },
+  "homepage": "https://github.com/R-Components/react-event-component#readme"
+}
